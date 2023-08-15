@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         NavigationStack {
-            Text("Brianna's Game")
+            Text("Brianna's Trivia Game")
                 .font(.largeTitle)
                 .foregroundColor(Color.red)
         
